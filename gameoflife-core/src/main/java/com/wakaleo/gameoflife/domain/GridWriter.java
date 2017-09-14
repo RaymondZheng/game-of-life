@@ -9,6 +9,9 @@ package com.wakaleo.gameoflife.domain;
  */
 public class GridWriter {
 
+    // test
+     private int a;
+
     private static final String LINE_SEPARATOR = System.getProperty("line.separator");
 
 	// Functions returns the status of the cells in the grid as a string, for printing
